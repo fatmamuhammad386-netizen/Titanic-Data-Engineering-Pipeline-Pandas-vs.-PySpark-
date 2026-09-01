@@ -1,4 +1,19 @@
+# 🚢 Titanic Data Engineering Pipeline (Pandas vs. PySpark)
+
+An end-to-end Data Cleaning, Transformation, and Feature Engineering pipeline applied to the famous **Titanic Dataset**. 
+
+The goal of this project is to compare implementation patterns, performance, and methodologies between **Pandas** (single-node processing) and **PySpark** (distributed data processing), organized into dedicated modules.
+
 ---
+
+## 📁 Repository Structure
+
+```text
+├── 📂 pandas_pipeline/
+│   └── 📄 pandas_titanic.ipynb      # Complete data pipeline using Pandas
+├── 📂 pyspark_pipeline/
+│   └── 📄 pyspark_titanic.ipynb     # Complete data pipeline using PySpark
+└── 📄 README.md                     # Project documentation
 
 ## 🛠️ Tech Stack & Dependencies
 
