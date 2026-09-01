@@ -1,4 +1,4 @@
-# itanic Data Engineering Pipeline (Pandas vs. PySpark)
+# Titanic Data Engineering Pipeline (Pandas vs. PySpark)
 
 An end-to-end Data Cleaning, Transformation, and Feature Engineering pipeline applied to the famous **Titanic Dataset**. 
 
